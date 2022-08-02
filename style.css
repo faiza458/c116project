@@ -1,0 +1,11 @@
+h3{
+    font-size: 25px !important;
+    color: white !important;
+width:1400;
+height:30;
+background-color: black;
+}
+canvas{
+    border: 4px black solid;
+}
+
